@@ -1,0 +1,14 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QRulerKB\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QIf \"xiao\" is in the name, the program will automatically connect, create config.json, and run.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QBind the ruler to an additional computer\nCopy config.json and ruler-kb.exe to another computer.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qconfig.json\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qconfig.json\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmac - device MAC address\ntoken - device token\nshift - offset in millimeters, positive or negative (e.g., 25 or -40).\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QRuler MAC address (overrides config; when pairing, skips search)\n-pair-only only pair with -mac and rewrite config.json (must specify mac)\n-print only print to console, without keyboard input\n-register re-pair the ruler and rewrite config.json\n-offset number offset in millimeters, positive or negative (overrides config)\n-token HEX token (overrides config)\n-vk input numbers using virtual keys (if Unicode input is not accepted)\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QRulerKB\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QЕсли в имени есть \"xiao\" программа спарится автоматически, создает config.json и запускается.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QПривязка рулетки к дополнительному компьютеру\nСкопируйте config.json и ruler-kb.exe на другой компьютер.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmac - мак адрес устройства\ntoken - токен устройства\nshift - смещение в миллиметрах, положительный или отрицательный (например 25 или -40).\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMAC рулетки (переопределяет конфиг; при спаривании пропускает поиск)\n-pair-only только спарить с -mac и перезаписать config.json (необходимо указать mac)\n-print только печатать в консоль, без ввода с клавиатуры\n-register заново спарить рулетку и перезаписать config.json\n-offset число смещение в миллиметрах, положительное или отрицательное(переопределяет конфиг)\n-token HEX токен (переопределяет конфиг)\n-vk вводить цифры виртуальными клавишами (если Unicode-ввод не принимается)\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmac - device MAC address\ntoken - device token\noffset - offset in millimeters, positive or negative (e.g., 25 or -40).\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmac - мак адрес устройства\ntoken - токен устройства\noffset - смещение в миллиметрах, положительный или отрицательный (например 25 или -40).\\E$"}

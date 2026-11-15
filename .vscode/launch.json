@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "console": "integratedTerminal",
+            "name": "ruler",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}",
+            "args": [
+                "-offset",
+                "123"
+                // "-mac",
+                // "B4:60:xx:xx:xx:xx",
+                // "-pair-only"
+            ],
+        },
+    ]
+}

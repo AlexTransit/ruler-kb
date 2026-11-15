@@ -1,6 +1,7 @@
 # RulerKB
 
 ## Bluetooth Ruler (Keyboard) ⇒ Keyboard Input (mm + Enter), Windows 10/11, without Mi Home and Xiaomi servers.
+The roulette connects to the computer via Bluetooth. Measured data is entered into the active window.
 Worked on QWCJY001 
 
 **Build (requires Go 1.22+):**

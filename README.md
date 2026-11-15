@@ -1,6 +1,7 @@
 # RulerKB
 
 ## Bluetooth Ruler (Keyboard) ⇒ Keyboard Input (mm + Enter), Windows 10/11, without Mi Home and Xiaomi servers.
+Worked on QWCJY001 
 
 **Build (requires Go 1.22+):**
 

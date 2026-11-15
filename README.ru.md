@@ -1,6 +1,7 @@
 # RulerKB
 
 ## Лазерная рулетка (Bluetooth) ⇒ ввод с клавиатуры (мм + Enter), Windows 10/11, без Mi Home и серверов Xiaomi.
+Проверено на QWCJY001 
 
 Сборка (нужен Go 1.22+):
 
